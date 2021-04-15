@@ -1,0 +1,32 @@
+Spaceship Shooter
+by Clement Goh Yung Jing
+
+Student ID: 101218668
+
+This game is created for 
+COS10009 Introduction to Programming
+Custom Program Assignment 
+Swinburne University of Technology Sarawak
+
+Credits:
+
+Media: 
+Kenney Game Asset 
+https://kenney.nl/assets/space-shooter-redux
+https://kenney.nl/assets/space-shooter-extension
+
+Background Music:
+Pokemon Go Battle Music
+https://www.youtube.com/watch?v=UT2W7Fx5oA0
+
+Super Mario Dies Sound Effect
+https://www.youtube.com/watch?v=rXGRfy2ljrE
+
+Shoot Sound Effect
+https://kenney.nl/assets/digital-audio
+
+Inspiration and Guide:
+https://pragprog.com/book/msgpkids/learn-game-
+programming-with-ruby
+
+Last updated: 29/11/2019
